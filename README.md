@@ -1,2 +1,1 @@
-# PL
-# iki editanku
+# Ini adalah repository dari kelompok DAS Pentung Studio Blok II Geografi Lingkungan UGM 2016
